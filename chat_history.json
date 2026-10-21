@@ -5,62 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "Hello! How can I assist you with cricket today?"
-  },
-  {
-    "role": "user",
-    "content": "hello"
-  },
-  {
-    "role": "assistant",
-    "content": "Hi there! What cricket-related topic would you like to discuss?"
-  },
-  {
-    "role": "user",
-    "content": "hru"
-  },
-  {
-    "role": "assistant",
-    "content": "I'm good, thank you! Ready to talk about cricket. What\u2019s on your mind?"
-  },
-  {
-    "role": "user",
-    "content": "who is god father of cricket"
-  },
-  {
-    "role": "assistant",
-    "content": "The title \"Godfather of Cricket\" can refer to various influential figures in the sport, but one prominent name often associated with it is:\n\n- **Sir Donald Bradman**: Often regarded as the greatest batsman of all time, he set numerous records and has had a lasting impact on cricket.\n\nOthers might refer to influential administrators or coaches, but Bradman is the most iconic in terms of players. Do you have someone specific in mind?"
-  },
-  {
-    "role": "user",
-    "content": "who is father of cricket"
-  },
-  {
-    "role": "assistant",
-    "content": "The title \"Father of Cricket\" is often attributed to:\n\n- **William Gilbert Grace (W.G. Grace)**: He was a key figure in the development of cricket in the late 19th century, known for his contributions as a player, doctor, and his charisma.\n\nHe played a crucial role in popularizing the game and is celebrated for his significant impact on cricket's evolution. Would you like to know more about him or his era?"
-  },
-  {
-    "role": "user",
-    "content": "mother?"
-  },
-  {
-    "role": "assistant",
-    "content": "In cricket, there's no widely recognized title of \"Mother of Cricket\" like we have for \"Father of Cricket.\" However, the sport has often been described in terms of leading figures, and its origins can be traced back to various influences globally. \n\n- Some people view cricket as a game that has been nurtured by many people and cultures over time.\n- The influence of women in cricket is growing, with the establishment of women's cricket becoming increasingly significant.\n\nIf you want to know about notable women in cricket, let me know!"
-  },
-  {
-    "role": "user",
-    "content": "sister?"
-  },
-  {
-    "role": "assistant",
-    "content": "There isn't an official title of \"Sister of Cricket\" in the same way as \"Father\" or \"Mother.\" However, if we're thinking about influential figures who have helped shape women's cricket or contributed significantly, we can consider:\n\n- **Mithali Raj**: A prominent Indian cricketer who has made a huge impact on women's cricket.\n- **Ellyse Perry**: An outstanding Australian all-rounder contributing to the development and popularity of women's cricket.\n\nIf you have a specific aspect in mind, feel free to share!"
-  },
-  {
-    "role": "user",
-    "content": "kohli?"
-  },
-  {
-    "role": "assistant",
-    "content": "Virat Kohli is one of the prominent cricketers of modern times, known for his exceptional batting and leadership. Here are some highlights about him:\n\n- **Batsman**: Renowned for his aggressive batting style and consistency across all formats (Test, ODI, and T20).\n- **Captaincy**: He had a successful tenure as the captain of the Indian national team, leading them to several memorable victories.\n- **Records**: Kohli holds numerous records, including being one of the fastest to reach multiple international milestones in terms of runs.\n\nIs there something specific about Kohli you\u2019d like to know?"
+    "content": "Hello! How can I help you with cricket today?"
   }
 ]
